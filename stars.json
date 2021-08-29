@@ -49,9 +49,9 @@
   },
   {
     "full_name": "twbs/bootstrap",
-    "stargazers_count": 152612,
-    "open_issues_count": 408,
-    "forks_count": 74524
+    "stargazers_count": 152614,
+    "open_issues_count": 409,
+    "forks_count": 74525
   },
   {
     "full_name": "grain-lang/grain",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 173726,
+    "stargazers_count": 173727,
     "open_issues_count": 824,
     "forks_count": 34958
   },
@@ -80,7 +80,7 @@
   {
     "full_name": "denoland/deno",
     "stargazers_count": 77543,
-    "open_issues_count": 637,
+    "open_issues_count": 636,
     "forks_count": 4118
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "nim-lang/Nim",
-    "stargazers_count": 11725,
-    "open_issues_count": 2159,
+    "stargazers_count": 11726,
+    "open_issues_count": 2158,
     "forks_count": 1220
   },
   {
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 67664,
-    "open_issues_count": 55,
-    "forks_count": 8823
+    "stargazers_count": 67665,
+    "open_issues_count": 56,
+    "forks_count": 8824
   },
   {
     "full_name": "gin-gonic/gin",
